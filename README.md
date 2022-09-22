@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m Daniel
 - 🔭 I am an IT student from Poland.
-- 🌱Learining on frontend and backend project using .Net and React
+- 🌱 Learining on frontend and backend project using .Net and React
+- 🎮 I create my own unity games
 
 <br>## Connect with me [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/daniel.sliwka.7/)[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/)<br>
 <br>
